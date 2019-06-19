@@ -1,5 +1,4 @@
 #Villanos
 
-* Dr Doom
-* Red
-* Capitán America
+*Dr Doom
+*Red
